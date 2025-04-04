@@ -31,8 +31,6 @@ function App() {
       </p>
     </>
   )
-}
-function App() {
   return (
     <div className="App">
       <h1>Welcome to the Product Dashboard</h1>
