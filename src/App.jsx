@@ -30,10 +30,6 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
-      
-      {/* Custom Content for the Product Dashboard */}
-      <h1>Welcome to the Product Dashboard</h1>
-      <Greeting />
     </div>
   );
 }
